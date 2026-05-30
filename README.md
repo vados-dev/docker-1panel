@@ -11,7 +11,7 @@
 > 
 > ** Миграция пользователей Docker : Если вы используете версию V1 с Docker, сначала переключитесь в режим хост-машины с помощью скрипта миграции, затем обновитесь до версии V2 с помощью официального инструмента обновления и, наконец, вернитесь в режим Docker. Подробнее см. вопрос 2: Как мигрировать с V1 на V2? [Q2: Как перейти с версии 1 на версию 2?]([Q2. Как перейти с версии 1 на версию 2?](#q2-%D0%BA%D0%B0%D0%BA-%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C-%D0%BC%D0%B8%D0%B3%D1%80%D0%B0%D1%86%D0%B8%D1%8E-%D1%81-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8-v1-%D0%BD%D0%B0-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8E-v2?)
 >
-> 脚本下载链接:
+> Ссылки для скачивания скрипта:
 > [GitHub](https://raw.githubusercontent.com/okxlin/ToolScript/refs/heads/main/1Panel/1panel-execution-mode/1panel_docker_to_sys.sh) |
 > [cdn.jsdelivr.net](https://cdn.jsdelivr.net/gh/okxlin/ToolScript@main/1Panel/1panel-execution-mode/1panel_docker_to_sys.sh) |
 > [testingcf.jsdelivr.net](https://testingcf.jsdelivr.net/gh/okxlin/ToolScript@main/1Panel/1panel-execution-mode/1panel_docker_to_sys.sh) |
@@ -21,7 +21,7 @@
 > [gcore.jsdelivr.net](https://gcore.jsdelivr.net/gh/okxlin/ToolScript@main/1Panel/1panel-execution-mode/1panel_docker_to_sys.sh) |
 > [originfastly.jsdelivr.net](https://originfastly.jsdelivr.net/gh/okxlin/ToolScript@main/1Panel/1panel-execution-mode/1panel_docker_to_sys.sh)
 
-## 📑 目录
+## 📑 Содержание
 
 - [简介](#简介)
 - [版本说明](#版本说明)
