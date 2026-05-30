@@ -5,10 +5,9 @@
 [![Docker Stars](https://img.shields.io/docker/stars/moelin/1panel?color=%2348BB78&logo=docker&label=stars)](https://hub.docker.com/r/moelin/1panel)
 [![GitHub Repo stars](https://img.shields.io/github/stars/okxlin/docker-1panel)](https://github.com/okxlin/docker-1panel)
 
-> [!CAUTION]
-> **重要提示**: 1Panel V2 版本与 V1 版本**无法直接跨版本升级**！
-> 
-> 如需从 V1 迁移到 V2，请参考官方迁移文档: https://1panel.cn/docs/v2/installation/v1_migrate/
+>Важное примечание : версии 1Panel V2 и V1 нельзя обновить напрямую между версиями !
+>
+>Инструкции по миграции с версии V1 на V2 см. в официальной документации по миграции: https://1panel.cn/docs/v2/installation/v1_migrate/
 > 
 > **Docker 用户迁移**: 如果您以 Docker 方式运行 V1，可通过迁移脚本先切换到宿主机运行模式，再使用官方升级工具升级到 V2，最后可切换回 Docker 运行模式。详见 [Q2: 如何从 V1 迁移到 V2?](#q2-如何从-v1-迁移到-v2)
 >
